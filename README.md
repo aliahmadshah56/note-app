@@ -156,6 +156,7 @@ docker stop note-app && docker rm note-app
 ## Screenshots
 
 > Coming soon — UI preview
+<img width="1910" height="942" alt="image" src="https://github.com/user-attachments/assets/1a3da016-ec77-48a9-81b2-c061d128d3ec" />
 
 ---
 
